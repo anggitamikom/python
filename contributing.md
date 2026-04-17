@@ -1,0 +1,1 @@
+Silakan baca panduan ini sebelum berkontribusi.
